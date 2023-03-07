@@ -51,12 +51,8 @@ function smash (words) {
 
 I have some years of software development experience in C++ and Java
 
-- August 2021 - present
-I'm developing UI in a digital map android application.
-(C++, Qt/Qml, JavaScript, Python)
-- October 2018 - July 2021
-I was developing human machine interface for vehicle head unit. 
-(C++, Qt/Qml)
+- **2GIS** - I'm developing UI in a digital map android application. (`C++`, `Qt/Qml`, `JavaScript`, `Python`)  /  _August 2021 - present_
+- **HARMAN** - I was developing human machine interface for vehicle head unit. (`C++`, `Qt/Qml`)  /  _October 2018 - July 2021_
 
 ## Education:
 
