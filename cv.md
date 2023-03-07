@@ -4,7 +4,7 @@ Junior frontend developer
 
 ----
 
-## Contact me
+## Contact me:
 
 **e-mail:** andd.maslov@gmail.com
 
@@ -12,7 +12,7 @@ Junior frontend developer
 
 **github:** [andrei-maslov](https://github.com/andrei-maslov)
 
-## About me
+## About me:
 
 I have some years software development experience. It is mostly a development of desktop and embedded applications.
 
@@ -20,7 +20,7 @@ I want to get frontend development experience by this course.
 
 I never stop learning new things.
 
-## Skills
+## Skills:
 
 | Skill | Grade (1 - beginer, 5 - Expert) |
 | --- | --- |
@@ -47,7 +47,7 @@ function smash (words) {
 };
 ```
 
-## Experience
+## Experience:
 
 I have some years of software development experience in C++ and Java
 
@@ -58,14 +58,14 @@ I'm developing UI in a digital map android application.
 I was developing human machine interface for vehicle head unit. 
 (C++, Qt/Qml)
 
-## Education
+## Education:
 
 Nizhniy Novgorod State Technical University (Arzamas Polytechnic Institute).
 
 - Design and technology of radio-electronic devices - Master’s degree (2014-2016)
 - Information Systems and Technologies - Bachelor's Degree (2011-2014)
 
-## Languages
+## Languages:
 
 - Russian (native)
 - English (A2 - pre-intermediate. I have passed the test on the epam course portal)
