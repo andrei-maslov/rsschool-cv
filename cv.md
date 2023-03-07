@@ -7,7 +7,9 @@ Junior frontend developer
 ## Contact me
 
 **e-mail:** andd.maslov@gmail.com
+
 **telegram:** [@anddmaslov](https://t.me/anddmaslov)
+
 **github:** [andrei-maslov](https://github.com/andrei-maslov)
 
 ## About me
