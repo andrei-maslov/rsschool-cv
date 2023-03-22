@@ -58,8 +58,8 @@ I have some years of software development experience in C++ and Java
 
 Nizhniy Novgorod State Technical University (Arzamas Polytechnic Institute).
 
-- Design and technology of radio-electronic devices - Master’s degree (2014-2016)
-- Information Systems and Technologies - Bachelor's Degree (2011-2014)
+- Design and technology of radio-electronic devices - Master’s degree (2015-2018)
+- Information Systems and Technologies - Bachelor's Degree (2011-2015)
 
 ## Languages:
 
