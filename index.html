@@ -89,11 +89,11 @@
 // Codewars: Training on Sentence Smash.
 function smash (words) {
     sentence = "";
-    
+
     function concat(word) {
-    sentence += (sentence ? " " : "") + word; 
+    sentence += (sentence ? " " : "") + word;
     }
-    
+
     words.forEach(concat);
     return sentence;
 };
