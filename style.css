@@ -2,14 +2,20 @@ body {
     margin: 0;
     padding: 0;
     background-color: #ddd;
+    font-size: 1.5em;
 }
 
 .container {
     background-color: #efefef;
-    width: 90em;
+    width: 70em;
     margin: auto;
     padding: 7em;
     box-shadow: 10px 5px 5px #888;
+}
+
+.photo {
+    width:20em;
+    border-radius: 50%;
 }
 
 section > header {
@@ -25,5 +31,5 @@ section > header {
 }
 
 .job-position {
-    color: #aaa;
+    color: #888;
 }
