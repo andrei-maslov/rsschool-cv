@@ -1,1 +1,1 @@
-CV: https://andrei-maslov.github.io/rsschool-cv/cv
+# rsschool-cv
